@@ -12,4 +12,12 @@ public class Math{
         if (a <= b) return a;
         return b;
     }
+
+    public int Add(int a, int b) {
+        return a + b;
+    }
+
+    public int Sub(int a, int b) {
+        return a - b;
+    }
 }
