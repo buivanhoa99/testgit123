@@ -12,10 +12,19 @@ public class Math{
         if (a <= b) return a;
         return b;
     }
+<<<<<<< HEAD
     public int Tinhtong(int a, int b) {
         return a + b;
     }
      public int Tinhhieu(int a, int b) {
+=======
+
+    public int Add(int a, int b) {
+        return a + b;
+    }
+
+    public int Sub(int a, int b) {
+>>>>>>> master
         return a - b;
     }
 }
