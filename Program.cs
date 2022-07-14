@@ -12,4 +12,10 @@ public class Math{
         if (a <= b) return a;
         return b;
     }
+    public int Tinhtong(int a, int b) {
+        return a + b;
+    }
+     public int Tinhhieu(int a, int b) {
+        return a - b;
+    }
 }
