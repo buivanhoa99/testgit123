@@ -7,4 +7,9 @@ public class Math{
         if (a > b) return a;
         return b;
     }
+
+    public int Min(int a, int b){
+        if (a < b) return a;
+        return b;
+    }
 }
