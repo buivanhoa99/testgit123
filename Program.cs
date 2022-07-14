@@ -16,6 +16,8 @@ public class Math{
         return a + b;
     }
      public int Tinhhieu(int a, int b) {
+        return a - b;
+     }
 
     public int Add(int a, int b) {
         return a + b;
